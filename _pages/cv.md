@@ -83,3 +83,5 @@ Awards and Prizes
 * National Geographic - AI for Earth Innovation Grant (2020)
 * IVADO- Postdoctoral Scholarship (2020-2022)
 * Fonds de Recherche du Québec - Société et Culture (FRQSC) - Doctoral Scholarship (2013-2017)
+
+To download my full CV, please click [here](https://github.com/sashavor/sashavor.github.io/blob/master/files/SashaLuccioniCV.pdf)
