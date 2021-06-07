@@ -11,13 +11,13 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Cognitive Computing, *[UQÂM University](https://uqam.ca/)*, 2018
+* Ph.D in Cognitive Computing, *[UQAM University](https://uqam.ca/)*, 2018
 * M.Sc in Cognitive Science (Minor in Natural Language Processing), *[École Normale Supérieure (Paris)](https://www.ens.psl.eu/en)*, 2012
 * B.A. in Language Science, *[Université Paris III: Sorbonne Nouvelle](http://www.univ-paris3.fr/)*, 2010
 
 Work experience
 ======
-* *2019- Present(: **Postdoctoral Researcher** ([Université de Montréal](https://www.umontreal.ca/) + [Mila](https://mila.quebec/))
+* *2019- Present*: **Postdoctoral Researcher** ([Université de Montréal](https://www.umontreal.ca/) + [Mila](https://mila.quebec/))
   * Working with Yoshua Bengio on “This Climate Does Not Exist", a project that involves developing and deploying new variations of conditional Generative Adversarial Networks (GANs) to create images of the potential effects of climate change.
   * Pursuing the integration of Fairness, Accountability, Transparency, and Ethics content into the training programs at Mila to ensure that the new generation of machine learning researchers are better equipped to address these issues.
 
