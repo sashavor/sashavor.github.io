@@ -17,28 +17,28 @@ Education
 
 Work experience
 ======
-* 2019- Present: **Postdoctoral Researcher** *([Université de Montréal](https://www.umontreal.ca/) + [Mila](https://mila.quebec/))*
+* *2019- Present(: **Postdoctoral Researcher** ([Université de Montréal](https://www.umontreal.ca/) + [Mila](https://mila.quebec/))
   * Working with Yoshua Bengio on “This Climate Does Not Exist", a project that involves developing and deploying new variations of conditional Generative Adversarial Networks (GANs) to create images of the potential effects of climate change.
   * Pursuing the integration of Fairness, Accountability, Transparency, and Ethics content into the training programs at Mila to ensure that the new generation of machine learning researchers are better equipped to address these issues.
 
-* 2021 - Present (part-time): **Computational Social Scientist** *([UN Global Pulse](https://www.unglobalpulse.org/))*
+* *2021 - Present (part-time)*: **Computational Social Scientist** ([UN Global Pulse](https://www.unglobalpulse.org/))
   * Developing a dashboard to help field agents from the World Health Orgnaization track and analyze misinformation and facilitate pandemic response.
   * Creaing novel methods for information retrieval, text analysis, and data visualization based on both audio and textual data extracted from global radio stations.
 
-* 2018-2019 : AI Research Scientist ([Morgan Stanley AI/ML Center of Excellence](https://www.morganstanley.com/))
+* *2018-2019* : AI Research Scientist ([Morgan Stanley AI/ML Center of Excellence](https://www.morganstanley.com/))
   * Responsible for the development and deployment of end-to-end ML projects within the company, working on several projects for different divisions in the company.
   * Worked on several projects for different divisions in the company, especially in the domain of explainable AI and human-in-the-loop decision-making.
   * Presented results at the NeurIPS 2019 conference, as well as at several company-wide conferences and colloquia.
 
-* 2017–2018: AI/NLP Research Scientist ([Nuance Communications](https://www.nuance.com/index.html)) 
+* *2017–2018*: AI/NLP Research Scientist ([Nuance Communications](https://www.nuance.com/index.html)) 
   * As member of Nuance’s core research team, involved in creating and implementing algorithms and statistical techniques to develop and improve dialogue systems.
   * Research projects included the usage of NLP techniques and ML approaches to improve performance of question-answering and conversational agents.
   
 Skills
 ======
-* Machine Learning: PyTorch, TensorFlow, Keras, Transformers.
-* Python: sklearn, pandas, numpy, gensim, spaCy, NLTK, Python Imaging Library, Whoosh.
-* Languages, English, French, Russian, Spanish
+* **Machine Learning**: PyTorch, TensorFlow, Keras, Transformers.
+* **Python**: sklearn, pandas, numpy, gensim, spaCy, NLTK, Python Imaging Library, Whoosh.
+* **Languages**, English, French, Russian, Spanish
 
 Selected Publications
 ======
