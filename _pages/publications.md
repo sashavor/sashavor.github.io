@@ -2,7 +2,7 @@
 layout: archive
 title: "Full List of Publications"
 permalink: /publications/
-author_profile: false
+author_profile: true
 ---
 
 I publish under my legal name, Alexandra Luccioni. 
