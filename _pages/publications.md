@@ -2,7 +2,7 @@
 layout: archive
 title: "Full List of Publications"
 permalink: /publications/
-author_profile: true
+author_profile: false
 ---
 
 I publish under my legal name, Alexandra Luccioni. 
@@ -33,21 +33,11 @@ I publish under my legal name, Alexandra Luccioni.
 * [Tackling Climate Change with Machine Learning](https://arxiv.org/abs/1906.05433)   D. Rolnick, P. Donti, L. Kaack, A. Lacoste, K. Sankaran, <ins>A. Luccioni</ins> et al., *Pending Press*
 * [Visualizing the consequences of climate change using cycle-consistent adversarial networks](https://arxiv.org/pdf/1905.03709.pdf) V. Schmidt*, <ins>A. Luccioni</ins>* , K. Sankaran, J. Chayes, Y. Bengio, *AI for Social Good Workshop}, ICLR 2019*.
 
-2018
+Pre-2018
 ======
 * [STI-DICO: an Intelligent Tutoring System to Foster Dictionary Skills for French Teachers-in-Training](https://archipel.uqam.ca/11201/1/D3388.pdf), <ins>A. Luccioni</ins>, Doctoral Dissertation, *Université du Québec à Montréal*.
 * [STI-DICO: A Web-Based ITS for Fostering Dictionary Skills and Knowledge](https://www.researchgate.net/publication/307854625_STI-DICO_A_Web-Based_ITS_for_Fostering_Dictionary_Skills_and_Knowledge) <ins>A. Luccioni</ins>, J.Bourdeau, J.Massardi, R. Nkambou, *European Conference on Technology Enhanced Learning} (pp. 416-421)*.
 * [STI-DICO: a web-based system for intelligent tutoring of dictionary skills] (https://link.springer.com/chapter/10.1007/978-3-319-45153-4_36), <ins>A. Luccioni</ins>, R. Nkambou, J. Massardi, J. Bourdeau, C. Coulombe, *Proceedings of the 25th International Conference Companion on World Wide Web} (pp. 923-928)*.
-
-
 * [Overspecified references: An experiment on lexical acquisition in a virtual environment](https://daneshyari.com/article/preview/350307.pdf), <ins>A. Luccioni</ins>, L. Benotti, F.Landragin, *Computers in Human Behavior*, 49, 94-101.
 
-{% if author.googlescholar %}
-  You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
-{% endif %}
-
-{% include base_path %}
-
-{% for post in site.publications reversed %}
-  {% include archive-single.html %}
-{% endfor %}
+You can also find my articles on [my Google Scholar profile](https://scholar.google.ca/citations?user=nP8cwkIAAAAJ&hl=en&authuser=2).
