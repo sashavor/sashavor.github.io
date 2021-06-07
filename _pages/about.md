@@ -8,9 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Postdoctoral Researcher, Université de Montréal + Mila.
-Computational Social Scientist, United Nations Global Pulse.
-[Email](mailto:sasha.luccioni@mila.quebec)
+I am currently a Postdoctoral Researcher at the Mila Institute and a Computational Social Scientist at the UN Global Pulse. 
 
 News
 ======
@@ -24,7 +22,6 @@ News
 About me
 ======
 
-I am currently a Postdoctoral Researcher at the Mila Institute and a Computational Social Scientist at the UN Global Pulse. 
 
 The research subjects I am working on are:
 * The societal and environmental impacts of artificial intelligence (AI)
