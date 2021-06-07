@@ -11,63 +11,64 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Cognitive Computing, *[UQAM University](https://uqam.ca/)*, 2018
-* M.Sc in Cognitive Science (Minor in Natural Language Processing), *[École Normale Supérieure (Paris)](https://www.ens.psl.eu/en)*, 2012
-* B.A. in Language Science, *[Université Paris III: Sorbonne Nouvelle](http://www.univ-paris3.fr/)*, 2010
+* Ph.D in Cognitive Computing, *[UQAM University](https://uqam.ca/){:target="_blank"} *, 2018
+* M.Sc in Cognitive Science (Minor in Natural Language Processing), *[École Normale Supérieure (Paris)](https://www.ens.psl.eu/en){:target="_blank"} *, 2012
+* B.A. in Language Science, *[Université Paris III: Sorbonne Nouvelle](http://www.univ-paris3.fr/)*{:target="_blank"} , 2010
 
 Work experience
 ======
-* *2019- Present*: **Postdoctoral Researcher** ([Université de Montréal](https://www.umontreal.ca/) + [Mila](https://mila.quebec/))
+* *2019- Present*: **Postdoctoral Researcher** ([Université de Montréal](https://www.umontreal.ca/){:target="_blank"}  + [Mila](https://mila.quebec/){:target="_blank"} )
   * Working with Yoshua Bengio on “This Climate Does Not Exist", a project that involves developing and deploying new variations of conditional Generative Adversarial Networks (GANs) to create images of the potential effects of climate change.
   * Pursuing the integration of Fairness, Accountability, Transparency, and Ethics content into the training programs at Mila to ensure that the new generation of machine learning researchers are better equipped to address these issues.
 
-* *2021 - Present (part-time)*: **Computational Social Scientist** ([UN Global Pulse](https://www.unglobalpulse.org/))
+* *2021 - Present (part-time)*: **Computational Social Scientist** ([UN Global Pulse](https://www.unglobalpulse.org/){:target="_blank"} )
   * Developing a dashboard to help field agents from the World Health Orgnaization track and analyze misinformation and facilitate pandemic response.
   * Creaing novel methods for information retrieval, text analysis, and data visualization based on both audio and textual data extracted from global radio stations.
 
-* *2018-2019* : AI Research Scientist ([Morgan Stanley AI/ML Center of Excellence](https://www.morganstanley.com/))
+* *2018-2019* : AI Research Scientist ([Morgan Stanley AI/ML Center of Excellence](https://www.morganstanley.com/){:target="_blank"} )
   * Responsible for the development and deployment of end-to-end ML projects within the company, working on several projects for different divisions in the company.
   * Worked on several projects for different divisions in the company, especially in the domain of explainable AI and human-in-the-loop decision-making.
   * Presented results at the NeurIPS 2019 conference, as well as at several company-wide conferences and colloquia.
 
-* *2017–2018*: AI/NLP Research Scientist ([Nuance Communications](https://www.nuance.com/index.html)) 
+* *2017–2018*: AI/NLP Research Scientist ([Nuance Communications](https://www.nuance.com/index.html){:target="_blank"} ) 
   * As member of Nuance’s core research team, involved in creating and implementing algorithms and statistical techniques to develop and improve dialogue systems.
   * Research projects included the usage of NLP techniques and ML approaches to improve performance of question-answering and conversational agents.
+
+Selected Publications
+======
+* [What's in the Box? An Analysis of Undesirable Content in the Common Crawl Corpus](https://arxiv.org/abs/2105.02732){:target="_blank"}  (*2021 ACL/IJCAI Joint Conference*)
+* [Artificial intelligence cooperation to support the global response to COVID-19](https://www.nature.com/articles/s42256-020-0184-3){:target="_blank"}  (*Nature Machine Intelligence*)
+* [Mapping the landscape of artificial intelligence against COVID-19](https://www.jair.org/index.php/jair/article/view/12162){:target="_blank"}  (*Journal of Artificial Intelligence Research*,  Vol. 69)
+* [On the Morality of Artificial Intelligence](https://technologyandsociety.org/on-the-morality-of-artificial-intelligence/){:target="_blank"}  (*IEEE Technology and Society Magazine*)
+* [Quantifying the Carbon Emissions of Machine Learning](https://arxiv.org/abs/1910.09700){:target="_blank"}  (*Tackling Climate Change with Machine Learning -- NeurIPS 2019 Workshop*)
+* [Tackling Climate Change with Machine Learning](https://arxiv.org/abs/1906.05433){:target="_blank"}  - *pending press*.
+
+For a complete list of publications, please see [my Google Scholar page](https://scholar.google.ca/citations?user=nP8cwkIAAAAJ){:target="_blank"}.
+  
+Community Engagement
+======
+* Area Chair -- Ethics for NLP track for [EMNLP 2021](https://2021.emnlp.org/){:target="_blank"} 
+* Co-organizer --  [2021 Machine Learning Reproducibility Challenge](https://paperswithcode.com/rc2020){:target="_blank"}, [IJCAI AI for Social Good Workshop](https://amulyayadav.github.io/AI4SG2021/){:target="_blank"}
+* Program Committee -- [2021 Canadian Conference on Artificial Intelligence](https://www.caiac.ca/en/conferences/canadianai-2021/home){:target="_blank"}, [2021 IJCAI-PRICAI Special Track on Sustainability and Human Well-Being](https://ijcai20.org/){:target="_blank"}.
+* Committee member -- Expert committee on AI, ICT and the environment- [Quebec Ministry of the Economy, Science and Innovation](https://www.economie.gouv.qc.ca/accueil/){:target="_blank"}, Working group on the ethics of
+AI and the SDGs in Canada – [CCUNESCO](https://en.ccunesco.ca/){:target="_blank"}.
+* Reviewer -- NeurIPS, ICML, ICLR, ACL, IJCAI, NAACL.
+* Member -- [Climate Change AI](https://www.climatechange.ai/){:target="_blank"}, [Algora Lab](https://algoralab.ca/){:target="_blank", International Observatory on the Socieal Impacts of AI and Digital Technology [(OBVIA)](https://observatoire-ia.ulaval.ca/en/){:target="_blank"}.
+* Scientific Advisor -- [KidsCodeJeunesse](https://kidscodejeunesse.org/){:target="_blank"}, [Creative Destruction Lab](https://www.creativedestructionlab.com/){:target="_blank"}.
+
+Teaching
+======
+* 2021: Machine Learning for Large-Scale Data Analysis and Decision Making-- *[HEC Montréal](https://www.hec.ca/){:target="_blank"}*, Graduate level.
+* 2019-2020: Intelligent Tutoring Systems, *[Université du Québec à Montréal](https://uqam.ca/){:target="_blank"}*, Graduate level.
+* 2019: Introduction to Machine Learning, *[AI for Good Summer Lab](https://www.ai4goodlab.com/){:target="_blank"}*, Undergraduate level.
+* 2015-2016: Introduction to Computer Science and Programming,*[Université du Québec à Montréal](https://uqam.ca/){:target="_blank"}*, Undergraduate level.
+
   
 Skills
 ======
 * **Machine Learning**: PyTorch, TensorFlow, Keras, Transformers.
 * **Python**: sklearn, pandas, numpy, gensim, spaCy, NLTK, Python Imaging Library, Whoosh.
 * **Languages**, English, French, Russian, Spanish
-
-Selected Publications
-======
-* [What's in the Box? An Analysis of Undesirable Content in the Common Crawl Corpus](https://arxiv.org/abs/2105.02732) (2021 ACL/IJCAI Joint Conference)
-* [Artificial intelligence cooperation to support the global response to COVID-19](https://www.nature.com/articles/s42256-020-0184-3) (Nature Machine Intelligence, 2020)
-* [Mapping the landscape of artificial intelligence against COVID-19](https://www.jair.org/index.php/jair/article/view/12162) (Journal of Artificial Intelligence Research,  Vol. 69)
-* [On the Morality of Artificial Intelligence](https://technologyandsociety.org/on-the-morality-of-artificial-intelligence/) (IEEE Technology and Society Magazine, 2020)
-* [Quantifying the Carbon Emissions of Machine Learning](https://arxiv.org/abs/1910.09700) (Tackling Climate Change with Machine Learning -- NeurIPS 2019 Workshop)
-* [Tackling Climate Change with Machine Learning](https://arxiv.org/abs/1906.05433) - pending press.
-
-For a complete list of publications, please see [my Google Scholar page](https://scholar.google.ca/citations?user=nP8cwkIAAAAJ).
-  
-Community Engagement
-======
-* Area Chair -- Ethics for NLP track for EMNLP 2021.
-* Co-organizer -- Machine Learning Reproducibility Challenge, IJCAI AI for Social Good Workshop
-* Program Committee -- Canadian Conference on Artificial Intelligence, IJCAI-PRICAI Special Track on Sustainability and Human Well-Being, 2021.
-* Committee member -- Expert committee on AI, ICT and the environment- Quebec Ministry of the Economy, Science and Innovation, Working group on the ethics of
-AI and the SDGs in Canada – CCUNESCO.
-* Reviewer -- NeurIPS, ICML, ICLR, ACL, IJCAI, NAACL.
-* Member -- Climate Change AI, Algora Labs, OBVIA.
-* Advisor -- KidsCodeJeunesse, Creative Destruction Lab.
-
-Teaching
-======
-* 2021: Machine Learning for Large-Scale Data Analysis and Decision Making-- *HEC Montréal*, Graduate level.
-* 2019-2020: Intelligent Tutoring Systems, *Université du Québec à Montréal*, Graduate level.
-* 2019: Introduction to Machine Learning, *AI for Good Summer Lab*, Undergraduatelevel.
-* 2015-2016: Introduction to Computer Science and Programming,*Université du Québec à Montréal*, Undergraduate level.
   
 Recent Press
 ======
