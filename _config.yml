@@ -14,7 +14,7 @@ description              : &description "Artificial Intelligence Researcher • 
 url                      : https://sashavor.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "sashavor/sashavor.github.io"
-teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
+teaser                   : "brain-icon.png" # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
 future                   : true
@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Sasha Luccioni"
-  avatar           : "images/sasha.png"
+  avatar           : "sasha.png"
   bio              : "Artificial Intelligence Researcher • Societal Impacts • Climate Change"
   location         : "Montreal, Canada"
   employer         : "Université de Montréal + Mila"
