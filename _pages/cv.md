@@ -71,7 +71,7 @@ Teaching
   
 Recent Press
 ======
-* [AI has a racism problem, but fixing it is complicated, say experts](https://www.cbc.ca/news/science/artificial-intelligence-racism-bias-1.6027150) -- Jorge Barrera, Albert Leung -- *CBC News(, May 17, 2021.
+* [AI has a racism problem, but fixing it is complicated, say experts](https://www.cbc.ca/news/science/artificial-intelligence-racism-bias-1.6027150) -- Jorge Barrera, Albert Leung -- *CBC News*, May 17, 2021.
 * [Researchers Are Developing Tools to Calculate AI’s Carbon Footprint](https://www.wsj.com/articles/researchers-are-developing-tools-to-calculate-ais-carbon-footprint-11594978202), Sara Castellanos -- *Wall Street Journal*. July 17, 2020.
 * [AI Can Do Great Things—if It Doesn't Burn the Planet](https://www.wired.com/story/ai-great-things-burn-planet/), *WIRED Magazine*, January 21st, 2020.
 * [AI can show us the ravages of climate change](https://www.technologyreview.com/2019/05/16/135323/ai-can-show-us-the-ravages-of-climate-change/) *MIT Technology Review*, May 16th, 2019.
