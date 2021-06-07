@@ -85,4 +85,4 @@ Awards and Prizes
 * IVADO- Postdoctoral Scholarship (2020-2022)
 * Fonds de Recherche du Québec - Société et Culture (FRQSC) - Doctoral Scholarship (2013-2017)
 
-To download my full CV, please click [here](https://github.com/sashavor/sashavor.github.io/blob/master/files/SashaLuccioniCV.pdf)
+To download my full CV, please click [here](https://www.sashaluccioni.com/files/SashaLuccioniCV.pdf).
