@@ -12,7 +12,7 @@ redirect_from:
 Education
 ======
 * Ph.D in Cognitive Computing, [*UQAM University*](https://uqam.ca/){:target="_blank"} , 2018
-* M.Sc in Cognitive Science (Minor in Natural Language Processing), *[École Normale Supérieure (Paris)](https://www.ens.psl.eu/en){:target="_blank"} *, 2012
+* M.Sc in Cognitive Science (Minor in Natural Language Processing), [*École Normale Supérieure (Paris)*](https://www.ens.psl.eu/en){:target="_blank"}, 2012
 * B.A. in Language Science, *[Université Paris III: Sorbonne Nouvelle](http://www.univ-paris3.fr/)*{:target="_blank"} , 2010
 
 Work experience
