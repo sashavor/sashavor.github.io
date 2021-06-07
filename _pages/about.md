@@ -29,7 +29,7 @@ The research subjects I am working on are:
 * Best practices for data collection and sharing
 * Deploying AI tools for humanitarian support
 
-Check out the other pages on this site for more information about my [publications](https://sashavor.github.io/publications/), [talks](https://sashavor.github.io/talks/) I have given and [organizations](https://www.example.com) I'm involved with.
+Check out the other pages on this site for more information about my [publications](https://sashavor.github.io/publications/), [talks](https://sashavor.github.io/talks/) I have given and [projects](https://sashavor.github.io/projects/) that I'm involved in.
 
 For my full CV, see [here](https://sashavor.github.io/cv/)
 
