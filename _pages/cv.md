@@ -67,7 +67,7 @@ Teaching
 * 2021: Machine Learning for Large-Scale Data Analysis and Decision Making-- *HEC Montréal*, Graduate level.
 * 2019-2020: Intelligent Tutoring Systems, *Université du Québec à Montréal*, Graduate level.
 * 2019: Introduction to Machine Learning, *AI for Good Summer Lab*, Undergraduatelevel.
-* 2015-2016: Introduction to Computer Science and Programming,*Université du Québecà Montréal*, Undergraduate level.
+* 2015-2016: Introduction to Computer Science and Programming,*Université du Québec à Montréal*, Undergraduate level.
   
 Recent Press
 ======
