@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Sasha Luccioni | Personal Website"
+title                    : "Sasha Luccioni"
 title_separator          : "-"
 name                     : &name "Sasha Luccioni"
 description              : &description "Artificial Intelligence Researcher • Societal Impacts • Climate Change"
@@ -18,7 +18,7 @@ teaser                   : "brain-icon.png" # filename of teaser fallback teaser
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
 future                   : true
-read_more                : "disabled" # if enabled, adds "Read more" links to excerpts
+read_more                : "enabled" # if enabled, adds "Read more" links to excerpts
 talkmap_link             : false #change to true to add link to talkmap on talks page
 comments:
   provider               : # false (default), "disqus", "discourse", "facebook", "google-plus", "staticman", "custom"
