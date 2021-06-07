@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Sasha Luccioni CV"
+title: "Sasha Luccioni -- CV"
 permalink: /cv/
 author_profile: true
 redirect_from:
