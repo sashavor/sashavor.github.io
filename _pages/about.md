@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am currently a Postdoctoral Researcher at the Mila Institute and a Computational Social Scientist at the UN Global Pulse. 
+I am currently a Postdoctoral Researcher at the Mila Institute supervised by [Yoshua Bengio](https://yoshuabengio.org/), and a Computational Social Scientist at the [UN Global Pulse](https://www.unglobalpulse.org/). 
 
 News
 ======
