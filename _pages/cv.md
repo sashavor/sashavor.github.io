@@ -18,19 +18,19 @@ Education
 Work experience
 ======
 * *2019- Present*: **Postdoctoral Researcher** ([Université de Montréal](https://www.umontreal.ca/){:target="_blank"}  + [Mila](https://mila.quebec/){:target="_blank"} )
-  * Working with Yoshua Bengio on “This Climate Does Not Exist", a project that involves developing and deploying new variations of conditional Generative Adversarial Networks (GANs) to create images of the potential effects of climate change.
+  * Working with [Yoshua Bengio](https://yoshuabengio.org/) on “This Climate Does Not Exist", a project that involves developing and deploying new variations of conditional Generative Adversarial Networks (GANs) to create images of the potential effects of climate change.
   * Pursuing the integration of Fairness, Accountability, Transparency, and Ethics content into the training programs at Mila to ensure that the new generation of machine learning researchers are better equipped to address these issues.
 
 * *2021 - Present (part-time)*: **Computational Social Scientist** ([UN Global Pulse](https://www.unglobalpulse.org/){:target="_blank"} )
   * Developing a dashboard to help field agents from the World Health Orgnaization track and analyze misinformation and facilitate pandemic response.
   * Creaing novel methods for information retrieval, text analysis, and data visualization based on both audio and textual data extracted from global radio stations.
 
-* *2018-2019* : AI Research Scientist ([Morgan Stanley AI/ML Center of Excellence](https://www.morganstanley.com/){:target="_blank"} )
+* *2018-2019* : **AI Research Scientist** ([Morgan Stanley AI/ML Center of Excellence](https://www.morganstanley.com/){:target="_blank"} )
   * Responsible for the development and deployment of end-to-end ML projects within the company, working on several projects for different divisions in the company.
   * Worked on several projects for different divisions in the company, especially in the domain of explainable AI and human-in-the-loop decision-making.
   * Presented results at the NeurIPS 2019 conference, as well as at several company-wide conferences and colloquia.
 
-* *2017–2018*: AI/NLP Research Scientist ([Nuance Communications](https://www.nuance.com/index.html){:target="_blank"} ) 
+* *2017–2018*: **AI/NLP Research Scientist** ([Nuance Communications](https://www.nuance.com/index.html){:target="_blank"} ) 
   * As member of Nuance’s core research team, involved in creating and implementing algorithms and statistical techniques to develop and improve dialogue systems.
   * Research projects included the usage of NLP techniques and ML approaches to improve performance of question-answering and conversational agents.
 
@@ -53,7 +53,7 @@ Community Engagement
 * Committee member -- Expert committee on AI, ICT and the environment- [Quebec Ministry of the Economy, Science and Innovation](https://www.economie.gouv.qc.ca/accueil/){:target="_blank"}, Working group on the ethics of
 AI and the SDGs in Canada – [CCUNESCO](https://en.ccunesco.ca/){:target="_blank"}.
 * Reviewer -- NeurIPS, ICML, ICLR, ACL, IJCAI, NAACL.
-* Member -- [Climate Change AI](https://www.climatechange.ai/){:target="_blank"}, [Algora Lab](https://algoralab.ca/){:target="_blank", International Observatory on the Socieal Impacts of AI and Digital Technology [(OBVIA)](https://observatoire-ia.ulaval.ca/en/){:target="_blank"}.
+* Member -- [Climate Change AI](https://www.climatechange.ai/){:target="_blank"}, [Algora Lab](https://algoralab.ca/){:target="_blank", International Observatory on the Sociteal Impacts of AI and Digital Technology [(OBVIA)](https://observatoire-ia.ulaval.ca/en/){:target="_blank"}.
 * Scientific Advisor -- [KidsCodeJeunesse](https://kidscodejeunesse.org/){:target="_blank"}, [Creative Destruction Lab](https://www.creativedestructionlab.com/){:target="_blank"}.
 
 Teaching
