@@ -53,7 +53,7 @@ Community Engagement
 * **Committee member** -- Expert committee on AI, ICT and the environment- [Quebec Ministry of the Economy, Science and Innovation](https://www.economie.gouv.qc.ca/accueil/){:target="_blank"}, Working group on the ethics of
 AI and the SDGs in Canada – [CCUNESCO](https://en.ccunesco.ca/){:target="_blank"}.
 * **Reviewer** -- NeurIPS, ICML, ICLR, ACL, IJCAI, NAACL.
-* **Member** -- [Climate Change AI](https://www.climatechange.ai/){:target="_blank"}, [Algora Lab](https://algoralab.ca/){:target="_blank", International Observatory on the Sociteal Impacts of AI and Digital Technology [(OBVIA)](https://observatoire-ia.ulaval.ca/en/){:target="_blank"}.
+* **Member** -- [Climate Change AI](https://www.climatechange.ai/){:target="_blank"}, [Algora Lab](https://algoralab.ca/){:target="_blank"}, International Observatory on the Sociteal Impacts of AI and Digital Technology [(OBVIA)](https://observatoire-ia.ulaval.ca/en/){:target="_blank"}.
 * **Scientific Advisor** -- [KidsCodeJeunesse](https://kidscodejeunesse.org/){:target="_blank"}, [Creative Destruction Lab](https://www.creativedestructionlab.com/){:target="_blank"}.
 
 Teaching
