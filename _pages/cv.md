@@ -9,6 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
+I am currently searching for a full-time position to pursue research regarding the societal, ethical and environmental impacts of Artificial Intelligence models and algorithms.
+
 Education
 ======
 * Ph.D in Cognitive Computing, [*UQAM University*](https://uqam.ca/){:target="_blank"} , 2018
@@ -44,6 +46,12 @@ Selected Publications
 * [Tackling Climate Change with Machine Learning](https://arxiv.org/abs/1906.05433){:target="_blank"}  - *pending press*.
 
 For a complete list of publications, please see [my Google Scholar page](https://scholar.google.ca/citations?user=nP8cwkIAAAAJ){:target="_blank"}.
+
+Skills
+======
+* **Machine Learning**: PyTorch, TensorFlow, Keras, Transformers.
+* **Python**: sklearn, pandas, numpy, gensim, spaCy, NLTK, Python Imaging Library, Whoosh.
+* **Languages**, English, French, Russian, Spanish
   
 Community Engagement
 ======
@@ -63,12 +71,7 @@ Teaching
 * 2019: Introduction to Machine Learning, *[AI for Good Summer Lab](https://www.ai4goodlab.com/){:target="_blank"}*, Undergraduate level.
 * 2015-2016: Introduction to Computer Science and Programming,*[Université du Québec à Montréal](https://uqam.ca/){:target="_blank"}*, Undergraduate level.
 
-  
-Skills
-======
-* **Machine Learning**: PyTorch, TensorFlow, Keras, Transformers.
-* **Python**: sklearn, pandas, numpy, gensim, spaCy, NLTK, Python Imaging Library, Whoosh.
-* **Languages**, English, French, Russian, Spanish
+
   
 Recent Press
 ======
