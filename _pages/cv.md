@@ -47,14 +47,14 @@ For a complete list of publications, please see [my Google Scholar page](https:/
   
 Community Engagement
 ======
-* Area Chair -- Ethics for NLP track for [EMNLP 2021](https://2021.emnlp.org/){:target="_blank"} 
-* Co-organizer --  [2021 Machine Learning Reproducibility Challenge](https://paperswithcode.com/rc2020){:target="_blank"}, [IJCAI AI for Social Good Workshop](https://amulyayadav.github.io/AI4SG2021/){:target="_blank"}
-* Program Committee -- [2021 Canadian Conference on Artificial Intelligence](https://www.caiac.ca/en/conferences/canadianai-2021/home){:target="_blank"}, [2021 IJCAI-PRICAI Special Track on Sustainability and Human Well-Being](https://ijcai20.org/){:target="_blank"}.
-* Committee member -- Expert committee on AI, ICT and the environment- [Quebec Ministry of the Economy, Science and Innovation](https://www.economie.gouv.qc.ca/accueil/){:target="_blank"}, Working group on the ethics of
+* **Area Chair** -- Ethics for NLP track for [EMNLP 2021](https://2021.emnlp.org/){:target="_blank"} 
+* **Co-organizer** --  [2021 Machine Learning Reproducibility Challenge](https://paperswithcode.com/rc2020){:target="_blank"}, [IJCAI AI for Social Good Workshop](https://amulyayadav.github.io/AI4SG2021/){:target="_blank"}
+* **Program Committee** -- [2021 Canadian Conference on Artificial Intelligence](https://www.caiac.ca/en/conferences/canadianai-2021/home){:target="_blank"}, [2021 IJCAI-PRICAI Special Track on Sustainability and Human Well-Being](https://ijcai20.org/){:target="_blank"}.
+* **Committee member** -- Expert committee on AI, ICT and the environment- [Quebec Ministry of the Economy, Science and Innovation](https://www.economie.gouv.qc.ca/accueil/){:target="_blank"}, Working group on the ethics of
 AI and the SDGs in Canada – [CCUNESCO](https://en.ccunesco.ca/){:target="_blank"}.
-* Reviewer -- NeurIPS, ICML, ICLR, ACL, IJCAI, NAACL.
-* Member -- [Climate Change AI](https://www.climatechange.ai/){:target="_blank"}, [Algora Lab](https://algoralab.ca/){:target="_blank", International Observatory on the Sociteal Impacts of AI and Digital Technology [(OBVIA)](https://observatoire-ia.ulaval.ca/en/){:target="_blank"}.
-* Scientific Advisor -- [KidsCodeJeunesse](https://kidscodejeunesse.org/){:target="_blank"}, [Creative Destruction Lab](https://www.creativedestructionlab.com/){:target="_blank"}.
+* **Reviewer** -- NeurIPS, ICML, ICLR, ACL, IJCAI, NAACL.
+* **Member** -- [Climate Change AI](https://www.climatechange.ai/){:target="_blank"}, [Algora Lab](https://algoralab.ca/){:target="_blank", International Observatory on the Sociteal Impacts of AI and Digital Technology [(OBVIA)](https://observatoire-ia.ulaval.ca/en/){:target="_blank"}.
+* **Scientific Advisor** -- [KidsCodeJeunesse](https://kidscodejeunesse.org/){:target="_blank"}, [Creative Destruction Lab](https://www.creativedestructionlab.com/){:target="_blank"}.
 
 Teaching
 ======
