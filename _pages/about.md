@@ -10,6 +10,9 @@ redirect_from:
 
 I am currently a Postdoctoral Researcher at the Mila Institute supervised by [Yoshua Bengio](https://yoshuabengio.org/), and a Computational Social Scientist at the [UN Global Pulse](https://www.unglobalpulse.org/). 
 
+**I am currently searching for a full-time Research Scientist position at the intersection of AI and societal impacts for late 2021.** [Send me an email](mailto:sasha.luccioni@mila.quebec) if you think I would be a good fit for your team!
+
+
 News
 ======
 * I am an area chair on the Ethics for NLP track for [EMNLP 2021](https://2021.emnlp.org/){:target="_blank"}.
@@ -17,7 +20,6 @@ News
 * I am a co-organizer of the [2021 Machine Learning Reproducibility Challenge](https://paperswithcode.com/rc2020) and the [3rd Workshop on Artificial Intelligence for Social Good at IJCAI 2021](https://amulyayadav.github.io/AI4SG2021/).
 * I have received the 2021 [Antidote Scholarship](https://mila.quebec/en/the-2021-antidote-scholarship-awarded-to-sasha-luccioni/) for my work in Natural Language Processing.
 * I was featured in a [recent CBC article](https://www.cbc.ca/news/science/artificial-intelligence-racism-bias-1.6027150) about the dangers of bias in AI models.
-* **I am currently searching for a full-time Research Scientist position at the intersection of AI and societal impacts for late 2021.** [Send me an email](mailto:sasha.luccioni@mila.quebec) if you think I would be a good fit for your team!
 
 About me
 ======
