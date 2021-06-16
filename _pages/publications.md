@@ -16,7 +16,7 @@ I publish under my legal name, Alexandra Luccioni.
 2020
 ======
 * [Analyzing Sustainability Reports Using Natural Language Processing](https://arxiv.org/abs/2011.08073){:target="_blank"} -- <ins>A. Luccioni</ins>, E. Baylor, N. Duchene, *Tackling Climate Change workshop, NeurIPS 2020*.
-* [Geo-Spatiotemporal Features and Shape-Based Prior Knowledge for Fine-Grained Imbalanced Data Classification](C. Kantor, C., M. Skreta, B. Rauby, L. Boussioux, E. Jehanno,  <ins>A. Luccioni</ins>, D. Rolnick, H. Talbot, *2020 Harvard AI for Social Good Workshop} poster presentation*.
+* [Geo-Spatiotemporal Features and Shape-Based Prior Knowledge for Fine-Grained Imbalanced Data Classification](C. Kantor, C., M. Skreta, B. Rauby, L. Boussioux, E. Jehanno,  <ins>A. Luccioni</ins>, D. Rolnick, H. Talbot, *2020 Harvard AI for Social Good Workshop poster presentation*.
 * [Artificial intelligence cooperation to support the global response to COVID-19](https://www.nature.com/articles/s42256-020-0184-3){:target="_blank"}, M. Luengo-Oroz, K. Hoffman-Pham, J. Bullock, R. Kirkpatrick,  <ins>A. Luccioni</ins>, *Nature Machine Intelligence*.
 * [Using Artificial Intelligence to Visualize the Impacts of Climate Change]( <ins>A. Luccioni</ins>, V. Schmidt and Y. Bengio, *Visualization Viewpoints IEEE Computer Graphics \& Applications Magazine*.
 * [Mapping the landscape of artificial intelligence applications against COVID-19](https://www.jair.org/index.php/jair/article/view/12162){:target="_blank"}, J.Bullock,  <ins>A. Luccioni</ins>, K. Hoffman-Pham, M. Luengo-Oroz, *Journal of Artificial Intelligence Research*,  Vol. 69.
