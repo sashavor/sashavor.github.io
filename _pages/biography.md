@@ -1,7 +1,7 @@
 ---
-permalink: /
+permalink: /biography/
 excerpt: "Biography"
-title : "Biography - Sasha Luccioni"
+title : "My personal story"
 author_profile: true
 redirect_from: 
   - /biography/
