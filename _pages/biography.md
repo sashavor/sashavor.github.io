@@ -4,7 +4,7 @@ title : "My personal story"
 permalink: /biography/
 author_profile: true
 redirect_from: 
-  - /biography/
+  - /biography.html/
 ---
 
 I was born in the former Soviet Union, and came to Canada with my family after its demise. I grew up in Toronto, where I learned French language and pursued the International Baccalaureate diploma. I then pursued post-secondary studies in Language Science, completing a Bachelors in Linguistics and Natural Language Processing at Université Paris III (2007-2010). I subsequently endeavored to delve deeper into understanding the intersection between human and machine learning, following up with a Master's degree in Cognitive Science at the École Normale Supérieure de Paris (2010-2012). Finally, I completed a Ph.D. in Cognitive Computing at UQÀAM (2012-2017), during which I studied the potential of Artificial Intelligence in improving education. 
