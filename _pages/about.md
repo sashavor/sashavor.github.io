@@ -8,7 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-I am currently a Postdoctoral Researcher at the Mila Institute supervised by [Yoshua Bengio](https://yoshuabengio.org/), and a Computational Social Scientist at the [UN Global Pulse](https://www.unglobalpulse.org/). 
+I am currently a Postdoctoral Researcher at the Mila Institute supervised by [Yoshua Bengio](https://yoshuabengio.org/), and a Computational Social Scientist at the [UN Global Pulse](https://www.unglobalpulse.org/). I am also a co-chair of the Carbon Footprint WG of the [Big Science Workshop](https://bigscience.huggingface.co/) and a co-founder of [Climate Change AI (CCAI)](https://www.climatechange.ai/), an organization which catalyzes impactful work applying machine learning to the climate crisis. 
+
+My goal in research is to contribute towards understanding the data and techniques used for developing Machine Learning approaches, as well as to contribute to the growing field of 'AI for Good', applying AI to high-impact societal problems like climate change, health, education, and humanitarian response. Most recently, I have been working on analyzing the data used for training large language models, as well as quantifying the carbon footprint of AI algorithms.
 
 **I am currently searching for a full-time Research Scientist position at the intersection of AI and societal impacts for late 2021.** [Send me an email](mailto:sasha.luccioni@mila.quebec) if you think I would be a good fit for your team!
 
@@ -24,7 +26,6 @@ News
 About me
 ======
 
-
 The research subjects I am working on are:
 * The societal and environmental impacts of artificial intelligence (AI)
 * Calculating the carbon impact of AI algorithms
@@ -32,7 +33,7 @@ The research subjects I am working on are:
 * Best practices for data collection and sharing
 * Deploying AI tools for humanitarian support
 
-Check out the other pages on this site for more information about my [publications](https://sashavor.github.io/publications/), [talks](https://sashavor.github.io/talks/) I have given and [projects](https://sashavor.github.io/projects/) that I'm involved in.
+Check out the other pages on this site for more information about my [publications](https://sashavor.github.io/publications/), my [biography](https://sashavor.github.io/biography/) [talks](https://sashavor.github.io/talks/) I have given and [projects](https://sashavor.github.io/projects/) that I'm involved in.
 
 For my full CV, see [here](https://sashavor.github.io/cv/)
 
