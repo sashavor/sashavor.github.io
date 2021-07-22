@@ -1,6 +1,6 @@
 ---
 layout: archive
-title : "My personal story"
+title : "My Story"
 permalink: /biography/
 author_profile: true
 redirect_from: 
