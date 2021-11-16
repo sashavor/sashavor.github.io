@@ -9,6 +9,7 @@ redirect_from:
 ---
 
 I am currently a Research Scientist at [HuggingFace](https://huggingface.co/){:target="_blank"}, where I work on the ethical and societal impacts of Machine Learning models and datasets.
+
 I am also a co-chair of the Carbon Footprint WG of the [Big Science Workshop](https://bigscience.huggingface.co/){:target="_blank"} and a co-founder of [Climate Change AI (CCAI)](https://www.climatechange.ai/){:target="_blank"}, an organization which catalyzes impactful work applying machine learning to the climate crisis. 
 
 My goal in research is to contribute towards understanding the data and techniques used for developing Machine Learning approaches, as well as to contribute to the growing field of 'AI for Good', applying AI to high-impact societal problems like climate change, health, education, and humanitarian response. Most recently, I have been working on analyzing the data used for training large language models, as well as quantifying the carbon footprint of AI algorithms.
