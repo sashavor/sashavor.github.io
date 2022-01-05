@@ -84,10 +84,10 @@ author:
   avatar           : "sasha.jpg"
   bio              : "Artificial Intelligence Researcher • Societal Impacts • Climate Change"
   location         : "Montreal, Canada"
-  employer         : "Université de Montréal + Mila"
+  employer         : "HuggingFace"
   pubmed           : 
   googlescholar    : "https://scholar.google.ca/citations?user=nP8cwkIAAAAJ&hl"
-  email            :
+  email            : "sasha.luccioni@huggingface.co"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
