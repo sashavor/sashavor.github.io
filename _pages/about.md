@@ -18,7 +18,7 @@ You can contact me at: sasha.luccioni(at)huggingface.co
 
 News
 ======
-* I will be joining the WiML Board of Directors in Spring 2022! 
+* I will be joining the [WiML](https://wimlworkshop.org/) Board of Directors in Spring 2022! 
 * I will be Senior Area Chair on the Green NLP track of [NAACL 2022](https://2022.naacl.org/){:target="_blank"}.
 * I was an area chair on the Ethics for NLP track for [EMNLP 2021](https://2021.emnlp.org/){:target="_blank"}.
 * My recent article, *"What’s in the Box? An Analysis of Undesirable Content in the Common Crawl Corpus"* got accepted to [ACL-IJCNLP 2021](https://2021.aclweb.org/){:target="_blank"}!
