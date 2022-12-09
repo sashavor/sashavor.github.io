@@ -42,10 +42,13 @@ Work experience
 
 Selected Publications
 ======
+* [Estimating the Carbon Footprint of BLOOM, a 176B Parameter Language Model](https://arxiv.org/pdf/2211.02001) (*arxiv preprint*)
+* [Bugs in the data: How imagenet misrepresents biodiversity](https://arxiv.org/pdf/2208.11695) (*accepted at AAAI 2023*)
+* [A Framework for Deprecating Datasets: Standardizing Documentation, Identification, and Communication](https://facctconference.org/static/pdfs_2022/facct22-17.pdf) (*FAccT 2022*)
+* [Measuring the carbon intensity of AI in cloud instances](https://dl.acm.org/doi/fullHtml/10.1145/3531146.3533234) (*FAccT 2022*)
 * [What's in the Box? An Analysis of Undesirable Content in the Common Crawl Corpus](https://arxiv.org/abs/2105.02732){:target="_blank"}  (*2021 ACL/IJCAI Joint Conference*)
 * [Artificial intelligence cooperation to support the global response to COVID-19](https://www.nature.com/articles/s42256-020-0184-3){:target="_blank"}  (*Nature Machine Intelligence*)
 * [Mapping the landscape of artificial intelligence against COVID-19](https://www.jair.org/index.php/jair/article/view/12162){:target="_blank"}  (*Journal of Artificial Intelligence Research*,  Vol. 69)
-* [On the Morality of Artificial Intelligence](https://technologyandsociety.org/on-the-morality-of-artificial-intelligence/){:target="_blank"}  (*IEEE Technology and Society Magazine*)
 * [Quantifying the Carbon Emissions of Machine Learning](https://arxiv.org/abs/1910.09700){:target="_blank"}  (*Tackling Climate Change with Machine Learning -- NeurIPS 2019 Workshop*)
 * [Tackling Climate Change with Machine Learning](https://arxiv.org/abs/1906.05433){:target="_blank"}  - *pending press*.
 
@@ -59,6 +62,9 @@ Skills
   
 Community Engagement
 ======
+* ***Lead Organizer** -- Tackling Climate Change with Machine Learning Workshop -- [ICLR 2023](https://iclr.cc/){:target="_blank"} 
+* ***Board Member** -- [Women in Machine Learning](https://wimlworkshop.org/){:target="_blank"} 
+* **Ethics Review Chair** -- [NeurIPS 2022](neurips.cc/){:target="_blank"} 
 * **Area Chair** -- Ethics for NLP track for [EMNLP 2021](https://2021.emnlp.org/){:target="_blank"} 
 * **Co-organizer** --  [2021 Machine Learning Reproducibility Challenge](https://paperswithcode.com/rc2020){:target="_blank"}, [IJCAI AI for Social Good Workshop](https://amulyayadav.github.io/AI4SG2021/){:target="_blank"}
 * **Program Committee** -- [2021 Canadian Conference on Artificial Intelligence](https://www.caiac.ca/en/conferences/canadianai-2021/home){:target="_blank"}, [2021 IJCAI-PRICAI Special Track on Sustainability and Human Well-Being](https://ijcai20.org/){:target="_blank"}.
