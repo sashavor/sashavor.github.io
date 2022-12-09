@@ -9,7 +9,6 @@ redirect_from:
 
 {% include base_path %}
 
-I am currently searching for a full-time position to pursue research regarding the societal, ethical and environmental impacts of Artificial Intelligence models and algorithms.
 
 Education
 ======
@@ -19,11 +18,16 @@ Education
 
 Work experience
 ======
-* *2019- Present*: **Postdoctoral Researcher** ([Université de Montréal](https://www.umontreal.ca/){:target="_blank"}  + [Mila](https://mila.quebec/){:target="_blank"} )
+* *2021 - Present*: **Research Scientist** ([Hugging Face](huggingface.co/){:target="_blank"})
+  * Working on understanding the data and techniques necessary for developing responsible Machine Learning approaches.
+  * Working on analyzing the data used for training large language models, as well as quantifying the carbon footprint of AI algorithms.
+  * Actively involved in the Big Science project, co-chairing the Carbon working group and participating in the Bias and Documentation working groups.
+
+* *2019- 2021*: **Postdoctoral Researcher** ([Université de Montréal](https://www.umontreal.ca/){:target="_blank"}  + [Mila](https://mila.quebec/){:target="_blank"} )
   * Working with [Yoshua Bengio](https://yoshuabengio.org/) on “This Climate Does Not Exist", a project that involves developing and deploying new variations of conditional Generative Adversarial Networks (GANs) to create images of the potential effects of climate change.
   * Pursuing the integration of Fairness, Accountability, Transparency, and Ethics content into the training programs at Mila to ensure that the new generation of machine learning researchers are better equipped to address these issues.
 
-* *2021 - Present (part-time)*: **Computational Social Scientist** ([UN Global Pulse](https://www.unglobalpulse.org/){:target="_blank"} )
+* *2021 (part-time)*: **Computational Social Scientist** ([UN Global Pulse](https://www.unglobalpulse.org/){:target="_blank"} )
   * Developing a dashboard to help field agents from the World Health Orgnaization track and analyze misinformation and facilitate pandemic response.
   * Creaing novel methods for information retrieval, text analysis, and data visualization based on both audio and textual data extracted from global radio stations.
 
