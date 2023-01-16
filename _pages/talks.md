@@ -5,7 +5,7 @@ permalink: /talks/
 author_profile: true
 ---
 
-# You can invite me to give a talk at your event [here](https://speakerhub.com/speaker/sasha-luccioni){:target="_blank"}!
+### You can invite me to give a talk at your event [here](https://speakerhub.com/speaker/sasha-luccioni){:target="_blank"}!
 
 Peer-Reviewed Conference Presentations
 ======
