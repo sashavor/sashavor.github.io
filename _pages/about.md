@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a Research Scientist at [HuggingFace](https://huggingface.co/){:target="_blank"}, where I work on the ethical and societal impacts of Machine Learning models and datasets.
+I am a Research Scientist at [HuggingFace](https://huggingface.co/){:target="_blank"}, where I work on the ethical and societal impacts of Machine Learning models and datasets. 
 
 I am also a founding member of [Climate Change AI (CCAI)](https://www.climatechange.ai/){:target="_blank"}, an organization which catalyzes impactful work applying machine learning to the climate crisis and a member of the board of directors of [Women in Machine Learning (WiML)](wimlworkshop.org/){:target="_blank"} and one of the Ethical Review chairs of [NeurIPS 2022](neurips.cc/){:target="_blank"}.
 
