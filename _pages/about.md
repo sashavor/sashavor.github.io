@@ -18,7 +18,7 @@ You can contact me at: sasha.luccioni(at)huggingface.co
 
 Updates
 ======
-* I am co-lead organizer of the [Tackling Climate Change with Machine Learning workshop] at the [2023 ICLR conference](https://iclr.cc/){:target="_blank"} taking place in Kigali Rwanda.
+* I am co-lead organizer of the [Tackling Climate Change with Machine Learning workshop](https://www.climatechange.ai/events/iclr2023){:target="_blank"} at the [2023 ICLR conference](https://iclr.cc/){:target="_blank"} taking place in Kigali Rwanda.
 * I was an Ethics Review Chair of [NeurIPS 2022](https://neurips.cc/){:target="_blank"}.
 * I joined the [WiML](https://wimlworkshop.org/) Board of Directors in Spring 2022.
 * I was a Senior Area Chair on the Efficient NLP track of [NAACL 2022](https://2022.naacl.org/){:target="_blank"}.
