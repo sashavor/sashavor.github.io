@@ -5,7 +5,7 @@ permalink: /projects/
 author_profile: true
 ---
 
-Some of my current projects :
+Some of my current projects : 
 ============================
 * [**Stable Diffusion Bias Explorer**](https://huggingface.co/spaces/sasha/StableDiffusionBiasExplorer) -- a demo for exploring the biases in text-to-image models like Stable Diffusion and Dall-E 2.
 * [**The Data Measurements Tool**](https://huggingface.co/spaces/huggingface/data-measurements-tool) -- a tool for exploring and analyzing common datasets used for training and evaluating Machine Learning models.
