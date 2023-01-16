@@ -7,9 +7,6 @@ redirect_from:
   - /resume
 ---
 
-{% include base_path %}
-
-
 Education
 ======
 * Ph.D in Cognitive Computing, [*UQAM University*](https://uqam.ca/){:target="_blank"} , 2018
