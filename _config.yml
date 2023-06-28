@@ -7,6 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
+theme                    : alembic 
 title                    : "Sasha Luccioni"
 title_separator          : "-"
 name                     : &name "Sasha Luccioni"
